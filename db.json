@@ -1,0 +1,30 @@
+{
+  "productList": [
+    {
+      "productName": "Apple 11",
+      "category": "Electronic",
+      "freshness": "Bran new",
+      "price": 100,
+      "date": "2023-06-12T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "orange",
+      "category": "Fruits",
+      "freshness": "Bran new",
+      "price": 4,
+      "date": "2023-06-20T05:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
